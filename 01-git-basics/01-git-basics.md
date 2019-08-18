@@ -69,3 +69,40 @@ Skipping the Staging Area.
 
 To remove file from your tracked files (remove it from your staging area) and then commit. 
 
+
+
+##  1.3 Viewing the Commit History
+
+`git log`
+
+Lists the commits made in that repository in reverse chronological order.
+
+` git log -2`
+
+Two latest commits.
+
+`git log --stat`
+
+Some abbreviated stats for each commit.
+
+`git log --pretty=oneline`
+
+One line for each commit.
+
+`git log --pretty=short`
+
+For each commit: id, author, comment
+
+`git log --after="2019-08-18 00:00:00" --before="2019-08-31 00:00:00"`
+
+Limiting Log Output according to Date/Time.
+
+`gitk`
+
+A more graphical tool to visualize your commit history.
+
+See [https://www.youtube.com/watch?v=yfivNnk0_Gg]( https://www.youtube.com/watch?v=yfivNnk0_Gg)
+
+
+
+![gitk](C:\temp\git\Git-Studies\01-git-basics\gitk.jpg)
