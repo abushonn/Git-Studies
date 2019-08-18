@@ -131,3 +131,49 @@ Unstaging a Staged File
 
 Unmodifying a Modified File.  
 
+
+
+## 1.5 Working with Remotes
+
+`git remote -v` 
+
+Showing Your Remotes
+
+`git remote add arr https://github.com/abushonn/Another-Remote-Repo.git`
+
+Adding Remote Repositories. `arr` - alias of the remote repo.
+
+`git fetch arr`
+
+To get data from your remote projects into local repo.
+
+`git pull origin master`
+
+Automatically fetch and then merge a remote branch into your current branch.
+
+When you have your project at a point that you want to share, you have to push it upstream:
+
+`git push origin master`
+
+This command works only if you cloned from a server to which you have write access and if nobody has pushed in the meantime (pull is needed in such case).
+
+`git remote show origin`
+
+To see more information about a particular remote,
+
+`git remote rename arr new-arr`
+
+To rename a reference.
+
+`git remote rm`
+
+ To remove a reference for some reason.
+
+
+
+Fetch vs Pull
+
+
+
+![pull-fetchpng](C:\temp\git\Git-Studies\01-git-basics\pull-fetchpng.png)
+
