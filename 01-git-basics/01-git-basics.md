@@ -121,12 +121,13 @@ E.g. :
 $ git add forgotten_file
 $ git commit --amend`
 
-xxxx
 
-`xxx`
 
-xxxx 
+`git reset HEAD 01-git-basics/a1.txt`
 
-`xxx`
+Unstaging a Staged File
 
-xxxx
+`git checkout -- 01-git-basics/01-git-basics.md`
+
+Unmodifying a Modified File.  
+
