@@ -177,3 +177,21 @@ Fetch vs Pull
 
 ![pull-fetchpng](C:\temp\git\Git-Studies\01-git-basics\pull-fetchpng.png)
 
+
+
+
+
+## 1.6 Tagging
+
+`git todo` 
+
+todo
+
+
+
+## 1.6 Tips and Tricks
+
+`git todo` 
+
+todo
+
