@@ -103,6 +103,30 @@ A more graphical tool to visualize your commit history.
 
 See [https://www.youtube.com/watch?v=yfivNnk0_Gg]( https://www.youtube.com/watch?v=yfivNnk0_Gg)
 
-
+ 
 
 ![gitk](C:\temp\git\Git-Studies\01-git-basics\gitk.jpg)
+
+
+
+## 1.4 Undoing Things
+
+`git commit --amend`
+
+Updates which are in the staging area will be added to the latest commit (the latest commit will be updated).
+
+E.g. :
+
+`$ git commit -m 'initial commit'
+$ git add forgotten_file
+$ git commit --amend`
+
+xxxx
+
+`xxx`
+
+xxxx 
+
+`xxx`
+
+xxxx
