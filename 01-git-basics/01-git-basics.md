@@ -28,3 +28,44 @@ add to local repo
 `git clone https://github.com/abushonn/SmartGitDemo.git`
 
 Cloning an Existing Repository
+
+
+
+##  1.2 Recording Changes to the Repository
+
+`git status`
+
+To determine which files are in which state.
+
+`git add README`
+
+In order to begin tracking a new file
+
+`cat .gitignore`
+
+Ignoring Files
+
+`git diff`
+
+To see what you have changed but not yet staged
+
+`git diff --cached`
+
+To see what you have staged so far
+
+`git commit`
+
+Commit; message will be edited in the configured editor (default - vim) 
+
+`git commit -m "Story 182: Fix benchmarks for speed"`
+
+Commit with message
+
+`git commit -a -m 'automatically adds not staged files'`
+
+Skipping the Staging Area.
+
+`git rm a.txt`
+
+To remove file from your tracked files (remove it from your staging area) and then commit. 
+
