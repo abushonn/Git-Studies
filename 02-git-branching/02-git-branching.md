@@ -18,6 +18,7 @@ Commits are organized as a linked list ( a commit-node points to the previous co
 A commit is created for the following:
 
 `$ git add README test.rb LICENSE`
+
 `$ git commit -m 'initial commit of my project'`
 
 A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is `master`. 
@@ -37,6 +38,7 @@ To switch to an existing branch:
 Update and commit (in branch `tesing`):
 
 `$ edit test.rb`
+
 `$ git commit -a -m 'made a change'`
 
 
