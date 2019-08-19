@@ -1,13 +1,13 @@
 # 01. Git-Basics 
 Basic Commands:
 
-![basic-cmnds](C:\temp\git\Git-Studies\01-git-basics\basic-cmnds.jpg)
+![basic-cmnds](./basic-cmnds.jpg)
 
 
 
 Data Transfer in Git
 
-![data-transfer-git](C:\temp\git\Git-Studies\01-git-basics\data-transfer-git.jpg)
+![data-transfer-git](./data-transfer-git.jpg)
 
 
 
@@ -105,7 +105,7 @@ See [https://www.youtube.com/watch?v=yfivNnk0_Gg]( https://www.youtube.com/watch
 
  
 
-![gitk](C:\temp\git\Git-Studies\01-git-basics\gitk.jpg)
+![gitk](./gitk.jpg)
 
 
 
@@ -175,7 +175,7 @@ Fetch vs Pull
 
 
 
-![pull-fetchpng](C:\temp\git\Git-Studies\01-git-basics\pull-fetchpng.png)
+![pull-fetchpng](./pull-fetchpng.png)
 
 
 
