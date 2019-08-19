@@ -47,9 +47,38 @@ Update and commit (in branch `tesing`):
 
 ## 2.2 Basic Branching and Merging
 
-`git xxx`
+Branching and merging use-case:
 
-xxxx
+1. `Do work on a web site.`
+2. `Create a branch for a new story you’re working on.`
+3. `Do some work in that branch.`
+
+Urgent another issue; hotfix is needed. 
+
+1. `Switch back to your production branch.`
+2. `Create a branch to add the hotfix.`
+3. `After it’s tested, merge the hotfix branch, and push to production.`
+4. `Switch back to your original story and continue working.`
+
+
+
+Original story development:
+
+![br-mrg-01](./br-mrg-01.jpg)
+
+Urgent issue. Trivial merge:
+
+![br-mrg-02](./br-mrg-02.jpg)
+
+
+
+Switch back to the original story; development and merge.
+
+![br-mrg-03](./br-mrg-03.jpg)
+
+
+
+
 
 
 
