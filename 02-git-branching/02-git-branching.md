@@ -1,7 +1,7 @@
 # 02. Git-Branching
 Why branches:
 
-![br-rules](C:\temp\git\Git-Studies\02-git-branching\br-rules.jpg)
+![br-rules](.\br-rules.jpg)
 
 
 
