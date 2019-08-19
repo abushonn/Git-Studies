@@ -1,7 +1,7 @@
 # 02. Git-Branching
 Why branches:
 
-![br-rules](.\br-rules.jpg)
+![br-rules](./br-rules.jpg)
 
 
 
