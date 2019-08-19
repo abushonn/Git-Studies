@@ -3,7 +3,7 @@ Why branches:
 
 
 
-![git-protocols](C:\temp\git\Git-Studies\03-git-on-servr\git-protocols.jpg)
+![git-protocols](./git-protocols.jpg)
 
 ##  3.1 The Protocols
 
